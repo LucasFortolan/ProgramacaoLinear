@@ -1,8 +1,7 @@
 # Planejamento Agrícola Otimizado — Programação Linear (PuLP + Python)
 
 **Autores:**  
-Felipe Petini (RA: 102990)
-João Victor Lopes Fernandes (RA: 111408)  
+Felipe Petini (RA: 102990)<br>João Victor Lopes Fernandes (RA: 111408)  
 Leonardo Henrique Barbosa Colla (RA: 111604)  
 Lucas Fortolan Sampaio (RA: 113676)  
 
